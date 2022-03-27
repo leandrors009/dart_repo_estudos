@@ -1,0 +1,9 @@
+name: api_cep
+description: ""
+dependencies:
+  http: ^0.13.4
+dev_dependencies: {}
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+  
